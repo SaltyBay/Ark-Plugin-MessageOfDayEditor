@@ -1,0 +1,7 @@
+{
+  "General":{
+    "MessageOfDay":"Welcome to Salty Bay! You salty m8?\n For all information press F1!\n For shop interface press F2!\n Titan raiding is not allowed!\n Main cluster transfair opens in {} days, {} hours.\n Rewipe of Beginner Server in {} days, {} hours.",
+    "TimeUntilClusterOpen": "2020-April-22 19:00:00",
+    "TimeUntilRewipe": "2020-April-24 19:00:00"
+  }
+}
